@@ -1,8 +1,8 @@
 
 informacion_del_usuario = {
-    "nombre": "julian",
-    "edad": 16,
-    "ciudad": "bogota",
+    "nombre": "Julian",
+    "edad": 23,
+    "ciudad": "Cali",
     "genero": "masculino",
 }
 
@@ -69,10 +69,10 @@ if informacion_del_usuario['edad'] < 18:
 else:
     print("El usuario es mayor de edad.")
 
-if informacion_del_usuario['ciudad'] == "bogota":
-    print("El usuario vive en Bogotá.")
+if informacion_del_usuario['ciudad'] == "Cali":
+    print("El usuario vive en Cali.")
 else:
-    print("El usuario no vive en Bogotá.")
+    print("El usuario no vive en Cali.")
 
 print("=======Cuentas de usuario=======")
 
