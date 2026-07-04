@@ -42,7 +42,7 @@ objetivo1 = input("Objetivo 1: ")
 objetivo2 = input("Objetivo 2: ")
 objetivo3 = input("Objetivo 3: ")
 
-print(f"Cuanto tieno estimas para tu primer objetivo: {objetivo1}")
+print(f"Cuanto tiempo estimas para tu primer objetivo: {objetivo1}")
 
 tiempo1 = input(">")
 
